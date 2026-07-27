@@ -2,9 +2,9 @@
 
 > Ví dụ này cho thấy một bài nộp Day 02 hoàn chỉnh trông như thế nào. Không copy nội dung ví dụ; hãy học cách đi từ problem scan → workflow → research → Problem Statement → Rule / Workflow / Agent → quyết định cuối.
 
-Case ví dụ: **Tổng hợp weekly report**
+**Tổng hợp weekly report**
 
-Nhân vật ví dụ: Minh, Junior Product Manager tại một công ty SaaS khoảng 50 người. Mỗi tuần Minh phải tổng hợp số liệu từ Jira, Google Sheets và Slack để viết báo cáo tuần cho Engineering Manager và CEO.
+Nhân vật ví dụ: Hiếu, cán bộ tổng hợp của 1 trường đại học với 40 phòng ban/bộ phận khác nhau. Mỗi tuần Hiếu phải tổng hợp tài liệu từ các phòng ban/bộ phận gửi về để viết báo cáo tuần cho Ban Giám hiệu.
 
 ## Vì sao đây là ví dụ tốt?
 
@@ -21,20 +21,20 @@ Nhân vật ví dụ: Minh, Junior Product Manager tại một công ty SaaS kho
 
 ## Scan rộng
 
-Minh scan 10 problems, vượt mức tối thiểu 5.
+Hiếu scan 10 problems, vượt mức tối thiểu 5.
 
 | # | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật |
 |---|---|---|---|---|
-| 1 | Lặp lại | Mỗi thứ Hai tổng hợp Weekly Report từ Jira, Sheets, Slack | PM, EM, CEO | Mất khoảng 90 phút/tuần |
-| 2 | Lặp lại | Copy sprint velocity từ Jira vào slide update | PM | Lặp lại mỗi tuần |
-| 3 | Tốn thời gian | Review PRD 10-15 trang trước khi comment | PM reviewer, design lead | 45 phút/bản |
-| 4 | Tốn thời gian | Viết meeting notes sau cross-team meeting | PM, team member | 30 phút/buổi |
-| 5 | AI có thể tốt hơn | Notion không gợi ý priority theo deadline/context | PM, team member | Task nhiều nhưng priority mơ hồ |
-| 6 | AI có thể tốt hơn | Slack search tìm decision cũ rất khó | Cả team | 10-15 phút/lần tìm |
-| 7 | Pain từ người khác | Designer phải hỏi lại vì spec từ PM mập mờ | Designer, PM | Hỏi lại 2-3 lần/spec |
-| 8 | Pain từ người khác | CEO hỏi update nhưng report chưa sẵn | CEO, PM | Hay bị trễ deadline thứ Hai |
-| 9 | Tốn thời gian | Tổng hợp monthly KPI từ nhiều dashboard | PM, manager | Lặp lại mỗi tháng |
-| 10 | Lặp lại | Viết standup update mỗi sáng cùng format | PM | 5-10 phút/ngày |
+| 1 | Lặp lại | Mỗi thứ Tư, 10g sáng, lấy báo cáo từ các phòng ban/bộ phận gửi về  | Cán bộ tổng hợp, giáo vụ các khoa/bộ môn | Mất khoảng 120 phút/tuần |
+| 2 | Lặp lại | Copy báo cáo từ các phòng ban/ bộ phận vào Word, thêm nội dung phần phân tích | Cán bộ tổng hợp | Lặp lại mỗi tuần |
+| 3 | Lặp lại | Review tài liệu 10-15 trang trước khi comment | Lãnh đạo phụ trách | 45 phút/bản/1 tuần |
+| 4 | Lặp lại | Rà soát các phần việc đã giao/ đã hoàn thành của các đơn vị | Ban giám hiệu | 60 phút / tuần |
+| 5 | Tốn thời gian | Viết báo cáo kết luận sau buổi họp | Thư ký, cán bộ tổng hợp | 30 phút/buổi |
+| 6 | AI có thể tốt hơn | Không có cơ chế gợi ý phần việc đề xuất cho tuần tiếp theo để Ban giám hiệu ra quyết định | Cán bộ tổng hợp, thư ký, lãnh đạo phụ trách | Task nhiều nhưng priority mơ hồ và không rõ đơn vị phụ trách |
+| 7 | AI có thể tốt hơn | Viết các báo cáo tháng tổng hợp từ nhiều nguồn khác nhau, các tuần trong tháng | Cán bộ tổng hợp, thư ký, lãnh đạo phụ trách | Mất khoảng 120 phút/tháng |
+| 8 | AI có thể tốt hơn | Đề xuất các phần việc được nêu ra tại buổi họp thành các hoạt động trọng tâm trong tháng tiếp theo | Lãnh đạo phụ trách | 30 phút/buổi |
+| 9 | AI có thể tốt hơn | Lập lịch giải quyết các vấn đề tồn đọng của các phòng/ban chưa giải quyết được | Phòng ban/ bộ phận | Không có deadline rõ ràng vì nhiều việc chồng chéo
+| 10 | Lặp lại | Gửi toàn bộ báo cáo cho Ban Giám hiệu phê duyệt, sau đó lấy phê duyệt gửi cho các phòng ban/bộ phận biết và thực hiện | Cán bộ tổng hợp | Mất khoảng 120 phút/tuần |
 
 Vì sao phần scan này mạnh:
 
