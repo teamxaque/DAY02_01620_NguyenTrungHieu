@@ -5,6 +5,7 @@
 | Hoạt động | Hiếu đã làm gì? | Kết quả |
 |---|---|---|
 | Scan cá nhân | Đưa ra 10 problems | Nhóm có nhiều candidate về reporting/workflow |
+| Tổng hợp | Tổng hợp và biên tập Group report | Được mọi người sử dụng |
 | Pitch | Pitch Weekly Report | Bài được vào shortlist |
 | Challenge | Hỏi nhóm có data access không | Nhóm loại bớt scope quá rộng |
 | Research | Tìm công cụ | Nhóm thấy không cần build agent từ đầu |
