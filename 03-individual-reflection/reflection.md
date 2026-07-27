@@ -20,15 +20,23 @@
 | Research | Tìm tool tương tự | Tìm nhanh các tool trên thị trường, tìm hiểu nhanh về các tool này | Có claim tiết kiệm thời gian không nguồn |
 
 ## Bài học của Hiếu
-
 - Problem tốt không phải problem nghe "AI" nhất, mà là problem có workflow và metric rõ ràng. Không chỉ là "viết PRD" mà cần có workflow, có ai là người gặp vấn đề, tác động ra sao, có thể đo lường bằng số liệu cụ thể không.
-
-- Agent không phải đích đến mặc định. Trong case này, Workflow hợp lý hơn vì có đường đi cố định và có PM review. Agent chưa cần thiết vì workflow vẫn đơn giản, mỗi người làm mỗi bước, có người review thì OK.
-
-- Research không phải để copy tool, mà để thấy pattern: nhiều sản phẩm tốt đều để AI draft, người thật review. Các tool trên thị trường đều có pattern này: AI draft, người thật review. 
+- Ban đầu nhóm đã có ý tưởng về Solution-first thay vì đi khảo sát và xác định các vấn đề. Một số thành viên đưa case study hẹp, nên không thấy được vấn đề dùng giải pháp công nghệ để cải tiến.
+- Điều khó nhất khi viết problem statement là cụ thể hóa các góc nhìn khác nhau, mặc dù đã nhìn thấy vấn đề nhưng cụ thể hóa bằng bảng vẫn rất khó. 
 
 
 Nếu làm lại:
 ```text
 Tôi sẽ validate với nhiều cán bộ tổng hợp hơn trước khi chốt metric 90 phút → 30 phút, vì baseline hiện tại chủ yếu đến từ trải nghiệm của tôi.
 ```
+## Tự kiểm cuối bài
+
+- [ ] [12đ cá nhân] Cá nhân có 5+ problems và top 3 Problem Cards.
+- [ ] [12đ cá nhân] Tôi đã pitch rõ và challenge nhóm đúng trọng tâm.
+- [ ] Nhóm có nhật ký hội tụ từ candidates về 1 bài.
+- [ ] [15đ nhóm] Nhóm có workflow trước/sau.
+- [ ] [20đ nhóm] Nhóm có Problem Statement v0/v1 với metric và boundary rõ.
+- [ ] [15đ nhóm] Nhóm có so sánh No AI / Rule / Workflow / Agent.
+- [ ] [10đ nhóm] Nhóm có Go / Not Yet / No-Go và lý do rõ.
+- [ ] [10đ cá nhân] Reflection cá nhân có nói rõ vai trò trong nhóm, cách dùng AI, điều học được và nếu làm lại sẽ đổi gì.
+- [ ] [6đ cá nhân] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp với AI.
