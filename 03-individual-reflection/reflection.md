@@ -31,12 +31,10 @@ Tôi sẽ validate với nhiều cán bộ tổng hợp hơn trước khi chốt
 ```
 ## Tự kiểm cuối bài
 
-- [ ] [12đ cá nhân] Cá nhân có 5+ problems và top 3 Problem Cards.
-- [ ] [12đ cá nhân] Tôi đã pitch rõ và challenge nhóm đúng trọng tâm.
-- [ ] Nhóm có nhật ký hội tụ từ candidates về 1 bài.
-- [ ] [15đ nhóm] Nhóm có workflow trước/sau.
-- [ ] [20đ nhóm] Nhóm có Problem Statement v0/v1 với metric và boundary rõ.
-- [ ] [15đ nhóm] Nhóm có so sánh No AI / Rule / Workflow / Agent.
-- [ ] [10đ nhóm] Nhóm có Go / Not Yet / No-Go và lý do rõ.
-- [ ] [10đ cá nhân] Reflection cá nhân có nói rõ vai trò trong nhóm, cách dùng AI, điều học được và nếu làm lại sẽ đổi gì.
-- [ ] [6đ cá nhân] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp với AI.
+- [X] [12đ cá nhân] Cá nhân có 8 problems và top 3 Problem Cards.
+- [X] Nhóm có nhật ký hội tụ từ candidates về 1 bài.
+- [X] [15đ nhóm] Nhóm có workflow trước/sau.
+- [X] [20đ nhóm] Nhóm có Problem Statement v0/v1 với metric và boundary rõ.
+- [X] [15đ nhóm] Nhóm có so sánh No AI / Rule / Workflow / Agent.
+- [X] [10đ nhóm] Nhóm có Go / Not Yet / No-Go và lý do rõ.
+- [X] [10đ cá nhân] Reflection cá nhân có nói rõ vai trò trong nhóm, cách dùng AI, điều học được và nếu làm lại sẽ đổi gì.
